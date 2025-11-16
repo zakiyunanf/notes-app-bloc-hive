@@ -1,0 +1,12 @@
+# This file configures the analyzer, which statically analyzes Dart code to
+# check for errors, warnings, and lints.
+
+analyzer:
+  exclude: [".dart_tool/**"]
+
+linter:
+  rules:
+    # Common Flutter rules
+    avoid_print: false
+    prefer_const_constructors: true
+    prefer_final_fields: true
