@@ -10,8 +10,7 @@ Aplikasi catatan sederhana yang dibangun dengan Flutter, BLoC state management, 
 - ✅ Responsive UI
 
 ## 👥 Anggota Kelompok
-- **Bunga Clara October** - UI Layer & Presentasi (NotesListScreen, NoteFormScreen, Navigation)
-- **Erinna Dian Kristianti** - Business Logic & Data Layer (Note Model, NotesRepository, Hive, BLoC)
+- **Zakhy Yunan Fanani** - UI Layer & Presentasi (NotesListScreen, NoteFormScreen, Navigation) | Business Logic & Data Layer (Note Model, NotesRepository, Hive, BLoC)
 
 ## 🛠️ Teknologi
 - Flutter 3.x
@@ -49,14 +48,11 @@ flutter run
 
 ## 📋 Pembagian Tugas
 ```
-Siswa 1 (Bunga Clara October):
+Siswa 1 (Zakhy Yunan Fanani):
 
 - Membuat halaman UI (NotesListScreen, NoteFormScreen)
 - Implementasi navigasi antara halaman
 - Integrasi BLoC dengan UI
-
-Siswa 2 (Erinna Dian Kristianti):
-
 - Membuat model data Note
 - Implementasi NotesRepository dengan Hive
 - Membuat BLoC/Cubit untuk state management
